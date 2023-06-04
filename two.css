@@ -1,0 +1,12 @@
+h1{
+    color:white;
+    margin:20 auto ;
+    padding:500 500px 500px;
+    width:1000px;
+    border:500px black;
+    background: maroon;
+    font-style: Merriweather;
+}
+p{
+    font-style: italic;
+}

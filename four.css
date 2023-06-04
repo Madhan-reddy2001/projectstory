@@ -1,0 +1,36 @@
+h1{
+    background-color: white;
+    margin:20 auto ;
+    padding:500 500px 500px;
+    width:1000px;
+    border:500px black;
+    color:red;
+}
+body{
+    background-image:url('https://www.latrobe.edu.au/news/images/articles/cricket-resized.jpg');
+     background-repeat: no-repeat;
+   background-attachment: fixed;
+     background-size: cover;
+  
+}
+p{
+    font-style: oblique;
+    color: black;
+    font-display: bold ;
+}
+.team{
+    background-color: yellow;
+    margin:20 auto ;
+    padding:500 500px 500px;
+    width:1000px;
+    border:500px black;
+    color:red;
+}
+.teama{
+    background-color: skyblue;
+    margin:20 auto ;
+    padding:500 500px 500px;
+    width:1000px;
+    border:500px black;
+    color:black;
+}
